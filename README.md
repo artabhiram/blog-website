@@ -1,11 +1,8 @@
-﻿# Blog_management_Website
-
+﻿# Blog_Website
  
-->Virtual Internship at **Bharat Intern** in Full Stack Development
+Internship at Bharat Intern in Full Stack Web Development
 
-->Task 1 is about the Content Management Tool
+Technologies used: Html, CSS, JavaScript ,ExpressJS , EJS, MongoDB, NodeJS
 
-->Web Technologies used: Html, CSS, JavaScript ,ExpressJS , EJS, MongoDB, NodeJS
-
-->This repository contains the code for a Blog Management System Website, which allows users to create and manage blog posts. The website provides an intuitive interface 
+->This repository allows users to create and manage blog posts. The website provides an interface 
   for users to add text, images, and other elements required for creating engaging blog content
